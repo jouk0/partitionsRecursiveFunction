@@ -71,4 +71,3 @@ let partitions = {
         console.log(this.fieldSize(4000));
     }
 };
-partitions.init();
